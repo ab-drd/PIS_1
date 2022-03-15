@@ -10,5 +10,9 @@ namespace APP_1
         {
 
         }
+        void test2()
+        {
+            
+        }
     }
 }
