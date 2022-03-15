@@ -6,5 +6,9 @@ namespace APP_1
 {
     class NewClass
     {
+        void test2(){
+            
+        }
+        
     }
 }
